@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Webapp pentesting**
 
-- 💬 Ask me about **Hacking, Bug bounty , Cybersec**
+- 💬 Ask me about **Hacking, Bug bounty, Cybersec**
 
 - 📫 How to reach me **sankalpabaral600@gmail.com**
 
