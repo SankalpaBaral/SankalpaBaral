@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sankalpa</h1>
 <h3 align="center">A passionate Leaner from Nepal</h3>
 
-- 🌱 I’m currently learning **Webapp pentesting**
+- 🌱 I’m currently learning **Penetration testing**
 
 - 💬 Ask me about **Hacking, Bug bounty, Cybersec**
 
