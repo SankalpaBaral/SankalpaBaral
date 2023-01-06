@@ -27,6 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sankalpabaral&show_icons=true&locale=en" alt="sankalpabaral" /></p>
 
 ## TryHackMe Profile
-
-<script src="https://tryhackme.com/badge/387288"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Sankalpa.png" alt="TryHackMe">
 
