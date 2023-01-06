@@ -28,5 +28,5 @@
 
 ## TryHackMe Profile
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Sankalpa.png" alt="TryHackMe">
+<script src="https://tryhackme.com/badge/387288"></script>
 
